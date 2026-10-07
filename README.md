@@ -26,11 +26,12 @@ I like creating practical projects to improve my programming and problem-solving
 - Student-focused software projects
 
 ---
-⭐️ From [sujata-2007](https://github.com/sujata-2007)
-📫 Connect With Me
-💼 LinkedIn: Sujata biswas https://www.linkedin.com/in/sujata-biswas-204084423?utm_source=share_via&utm_content=profile&utm_medium=member_android
+⭐️ From [sujata-2007](https://github.com/sujata-2007)<br>
+📫 Connect With Me <br>
+💼 LinkedIn: Sujata biswas https://www.linkedin.com/in/sujata-biswas-204084423?utm_source=share_via&utm_content=profile&utm_medium=member_android <br>
 🚀 Paradox Orbit: [paradoxorbit.infinityfreeapp.com](https://paradoxorbit.infinityfreeapp.com) 
-I am a part of paradox orbit 
+I am a part of paradox orbit.
+
 
 
 <!--
